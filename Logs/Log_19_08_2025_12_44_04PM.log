@@ -1,0 +1,42 @@
+19_08_2025 12:44:06 PM -(base_page.py:29)- [INFO] Loaded elements from: C:\Users\Dipankar\Downloads\playwright_framework\elements\facebooklogin_page.json
+19_08_2025 12:44:06 PM -(base_page.py:29)- [INFO] Loaded elements from: C:\Users\Dipankar\Downloads\playwright_framework\elements\facebookcreateuser_page.json
+19_08_2025 12:44:08 PM -(base_page.py:74)- [INFO] Waiting for element 'firstname' to be visible
+19_08_2025 12:44:08 PM -(base_page.py:95)- [INFO] Entering text 'Test' in 'firstname'
+19_08_2025 12:44:08 PM -(base_page.py:74)- [INFO] Waiting for element 'lastname' to be visible
+19_08_2025 12:44:08 PM -(base_page.py:95)- [INFO] Entering text 'User' in 'lastname'
+19_08_2025 12:44:08 PM -(base_page.py:74)- [INFO] Waiting for element 'reg_email__' to be visible
+19_08_2025 12:44:08 PM -(base_page.py:95)- [INFO] Entering text 'test_user_behave@example.com' in 'reg_email__'
+19_08_2025 12:44:08 PM -(base_page.py:74)- [INFO] Waiting for element 'reg_passwd__' to be visible
+19_08_2025 12:44:08 PM -(base_page.py:95)- [INFO] Entering text 'Password123!' in 'reg_passwd__'
+19_08_2025 12:44:08 PM -(base_page.py:74)- [INFO] Waiting for element 'day' to be visible
+19_08_2025 12:44:08 PM -(base_page.py:102)- [INFO] Selecting '1' from 'day'
+19_08_2025 12:44:08 PM -(base_page.py:74)- [INFO] Waiting for element 'month' to be visible
+19_08_2025 12:44:08 PM -(base_page.py:102)- [INFO] Selecting 'Jan' from 'month'
+19_08_2025 12:44:08 PM -(base_page.py:74)- [INFO] Waiting for element 'year' to be visible
+19_08_2025 12:44:08 PM -(base_page.py:102)- [INFO] Selecting '1990' from 'year'
+19_08_2025 12:44:08 PM -(base_page.py:74)- [INFO] Waiting for element 'gender_male' to be visible
+19_08_2025 12:44:08 PM -(base_page.py:80)- [INFO] Waiting for element 'gender_male' to be clickable
+19_08_2025 12:44:08 PM -(base_page.py:88)- [INFO] Clicking on 'gender_male'
+19_08_2025 12:44:18 PM -(base_page.py:74)- [INFO] Waiting for element 'websubmit' to be visible
+19_08_2025 12:44:18 PM -(base_page.py:80)- [INFO] Waiting for element 'websubmit' to be clickable
+19_08_2025 12:44:18 PM -(base_page.py:88)- [INFO] Clicking on 'websubmit'
+19_08_2025 12:44:19 PM -(base_page.py:29)- [INFO] Loaded elements from: C:\Users\Dipankar\Downloads\playwright_framework\elements\facebooklogin_page.json
+19_08_2025 12:44:19 PM -(base_page.py:29)- [INFO] Loaded elements from: C:\Users\Dipankar\Downloads\playwright_framework\elements\facebookcreateuser_page.json
+19_08_2025 12:44:31 PM -(base_page.py:344)- [INFO] Verifying page title is: Facebook – log in or sign up
+19_08_2025 12:44:31 PM -(base_page.py:74)- [INFO] Waiting for element 'email' to be visible
+19_08_2025 12:44:31 PM -(base_page.py:95)- [INFO] Entering text 'your_valid_email@example.com' in 'email'
+19_08_2025 12:44:31 PM -(base_page.py:74)- [INFO] Waiting for element 'password' to be visible
+19_08_2025 12:44:31 PM -(base_page.py:95)- [INFO] Entering text 'your_valid_password' in 'password'
+19_08_2025 12:44:41 PM -(base_page.py:74)- [INFO] Waiting for element 'loginButton' to be visible
+19_08_2025 12:44:41 PM -(base_page.py:80)- [INFO] Waiting for element 'loginButton' to be clickable
+19_08_2025 12:44:41 PM -(base_page.py:88)- [INFO] Clicking on 'loginButton'
+19_08_2025 12:44:44 PM -(base_page.py:29)- [INFO] Loaded elements from: C:\Users\Dipankar\Downloads\playwright_framework\elements\facebooklogin_page.json
+19_08_2025 12:44:44 PM -(base_page.py:29)- [INFO] Loaded elements from: C:\Users\Dipankar\Downloads\playwright_framework\elements\facebookcreateuser_page.json
+19_08_2025 12:44:55 PM -(base_page.py:344)- [INFO] Verifying page title is: Facebook – log in or sign up
+19_08_2025 12:44:55 PM -(base_page.py:74)- [INFO] Waiting for element 'email' to be visible
+19_08_2025 12:44:55 PM -(base_page.py:95)- [INFO] Entering text 'your_valid_email@example.com' in 'email'
+19_08_2025 12:44:55 PM -(base_page.py:74)- [INFO] Waiting for element 'password' to be visible
+19_08_2025 12:44:55 PM -(base_page.py:95)- [INFO] Entering text 'invalid_password' in 'password'
+19_08_2025 12:44:55 PM -(base_page.py:74)- [INFO] Waiting for element 'loginButton' to be visible
+19_08_2025 12:44:55 PM -(base_page.py:80)- [INFO] Waiting for element 'loginButton' to be clickable
+19_08_2025 12:44:55 PM -(base_page.py:88)- [INFO] Clicking on 'loginButton'

@@ -1,0 +1,13 @@
+{
+  "dev": {
+    "facebook_base_url": "https://www.facebook.com/",
+    "timeout": 30000
+  },
+  "qa": {
+    "facebook_base_url": "https://qa.facebook.com/"
+  },
+  "prod": {
+    "facebook_base_url": "https://www.facebook.com/"
+  }
+}
+
